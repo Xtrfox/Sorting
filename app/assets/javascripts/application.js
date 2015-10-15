@@ -15,5 +15,4 @@
 //= require d3.min
 //= require bootstrap
 //= require d3.slider
-//= require turbolinks
 //= require_tree .
